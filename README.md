@@ -1,6 +1,6 @@
 
 # FetchContactsListForms
-TabBar in XamarinForms with Icon and Text
+Contact Fetch in XamarinForms in Android and iOS platform. ScreenShot is for android, It works fine iOS also.
 
 ![Android](https://raw.githubusercontent.com/dharmik/FetchContactsDemoForms/master/ScreenShot/List.png)
 
